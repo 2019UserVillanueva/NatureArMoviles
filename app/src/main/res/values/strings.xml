@@ -1,3 +1,42 @@
 <resources>
-    <string name="app_name">ArMoviles</string>
+    <string name="app_name">Nature AR</string>
+    <string name="app_name2">Ajolote AR</string>
+    <string name="app_name3">Panda AR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nature AR</string>
+    <string name="nav_header_subtitle">Desarrollado por alumnos de la UAC</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Mascota</string>
+    <string name="menu_axolotl">Ajolote</string>
+    <string name="menu_panda">Panda</string>
+    <string name="menu_store">Tienda</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="home_second">Home Second</string>
+    <string name="menu_axolotlar">AjoloteAR</string>
+    <string name="menu_pandaar">PandaAR</string>
+    <string name="textview1">El ajolote es una especie de anfibio caudado de la familia
+        Ambystomatidae. Es endémico del sistema lacustre
+        de la Cuenca de México y ha tenido una gran influencia
+        en la cultura mexicana. Se encuentra en peligro crítico
+        de extinción por la pérdida de hábitat, introducción
+        de peces exóticos, sobreexplotación, contaminación y su
+        consumo como alimento</string>
+    <string name="textview2">El panda es una especie de mamífero del orden de los
+        carnívoros y aunque hay una gran controversia al respecto,
+        los últimos estudios de su ADN lo engloban entre los miembros
+        de la familia de los osos (Ursidae), siendo el oso de anteojos
+        su pariente más cercano, si bien este pertenece
+        a la subfamilia de los tremarctinos. La baja natalidad,
+        la alta mortalidad infantil y la destrucción de su ambiente
+        natural lo colocan bajo la amenaza de la extinción. La
+        ley china es muy rígida en cuanto a su caza, lo que ha
+        disminuido esta problemática. </string>
+    <string name="home">Bienvenido a la app, Nature AR, en ella podrás ver
+    fotos e información sobre dos animales en
+    peligro de extinción, así como poder verlos haciendo
+        uso de la realidad aumentada. </string>
 </resources>
