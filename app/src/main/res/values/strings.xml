@@ -39,4 +39,7 @@
     fotos e información sobre dos animales en
     peligro de extinción, así como poder verlos haciendo
         uso de la realidad aumentada. </string>
+    <string name="acceder">acceder</string>
+    <string name="registrar">registrar</string>
+    <string name="cerrar_sesi_n">cerrar sesión</string>
 </resources>
