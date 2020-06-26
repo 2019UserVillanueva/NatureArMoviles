@@ -12,10 +12,6 @@
         tools:layout="@layout/fragment_home">
 
         <action
-            android:id="@+id/action_nav_home_to_nav_gallery"
-            app:destination="@id/nav_gallery"
-            app:popUpTo="@id/nav_home" />
-        <action
             android:id="@+id/action_nav_home_to_nav_axolotl"
             app:destination="@id/nav_axolotl"
             app:popUpTo="@id/nav_home" />
@@ -31,10 +27,14 @@
             android:id="@+id/action_nav_home_to_nav_about"
             app:destination="@id/nav_about"
             app:popUpTo="@id/nav_home" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery"
+            app:destination="@id/nav_gallery"
+            app:popUpTo="@id/nav_home" />
     </fragment>
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_galleryforced"
         android:name="com.example.armoviles.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
@@ -58,5 +58,10 @@
         android:name="com.example.armoviles.ui.about.AboutFragment"
         android:label="@string/menu_about"
         tools:layout="@layout/fragment_about" />
+    <activity
+        android:id="@+id/nav_gallery"
+        android:name="com.example.armoviles.HomeActivity"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/activity_home" />
 
 </navigation>
