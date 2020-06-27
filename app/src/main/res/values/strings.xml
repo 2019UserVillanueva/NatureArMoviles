@@ -42,4 +42,7 @@
     <string name="acceder">acceder</string>
     <string name="registrar">registrar</string>
     <string name="cerrar_sesi_n">cerrar sesión</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="registrarse">Registrarse</string>
 </resources>
